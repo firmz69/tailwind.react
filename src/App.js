@@ -14,7 +14,7 @@ function App() {
    <About/>
    <Product/>
    <Contact/>
-   <Login/>
+   
    </>
   )
 }
