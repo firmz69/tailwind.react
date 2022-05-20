@@ -23,9 +23,6 @@ export default function Main() {
                     href="/"
                     className="underline-blue mt-6 text-base font-bold leading-relaxed"
                   >
-                    <a href="/" className="underline decoration-solid font-serif font-medium">
-                    Back to Home...
-                  </a>
                 </a>
             </div>
          </div>
