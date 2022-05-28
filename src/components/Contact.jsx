@@ -21,8 +21,9 @@ export default function Main() {
                   </h2>
                   <a
                     href="/"
-                    className="underline-blue mt-6 text-base font-bold leading-relaxed"
+                    className="underline mt-2 font-extralight leading-relaxed text-lg"
                   >
+                    <p>Back to home...</p>
                 </a>
             </div>
          </div>
