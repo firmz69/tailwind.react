@@ -4,7 +4,7 @@ export default function Main() {
       <div className="grotesk max-w-8xl mx-auto">
          <div className="max-w-8xl mx-auto inline-block items-center p-3 pt-0 lg:flex lg:flex-wrap lg:pt-4">
             <div className="lg:w-3/6">
-              <h2 className="max-w-xl lg:text-[4.2em] text-xl font-bold leading-none text-cyan-900 inline-block">
+              <h2 className="transition ease-in-out delay-150 hover:scale-110 max-w-xl lg:text-[4.2em] text-xl font-bold leading-none text-cyan-900 inline-block">
               ︎ ︎ ︎ ︎︎Toko Alat Musik
               </h2>
               <p className="mt-6 max-w-2xl text-xl font-semibold text-[#404040]"></p>

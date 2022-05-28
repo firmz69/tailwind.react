@@ -10,7 +10,7 @@ export default function Main() {
                   <img src="/images/yo.jpg" alt="img" />
                 </div>
                 <div className="flex flex-col pt-0 text-left lg:w-1/2 lg:flex-grow pb-5 lg:items-start lg:pl-24 lg:pt-24 text-cyan-900">
-                  <h2 className="pb-4 font-bold leading-tight sm:text-4xl">
+                  <h2 className="transition ease-in-out delay-150 hover:scale-110 pb-4 font-bold leading-tight sm:text-4xl">
                     Gitar Akustik
                   </h2>
                   <p className="mb-8 leading-relaxed text-zinc-500">
@@ -29,7 +29,7 @@ export default function Main() {
             <div className="my-24 p-4 text-cyan-900 sm:text-4xl ">
               <div className="max-w-9xl mx-auto flex flex-col items-center bg-gradient-to-r px-10 py-24 lg:flex-row">
                 <div className="flex flex-col items-center pb-1 pl-0 text-center lg:mb-0 lg:w-1/2 lg:flex-grow lg:items-start lg:pl-12 lg:pr-24 lg:text-left">
-                  <h2 className="pb-4 font-bold leading-tight">
+                  <h2 className="transition ease-in-out delay-150 hover:scale-110 pb-4 font-bold leading-tight">
                     Gitar Elektrik
                   </h2>
                   <p className="leading-relaxed text-base text-zinc-500">
@@ -53,7 +53,7 @@ export default function Main() {
             <div className="mx-auto">
               <div className="max-w-8xl mx-auto px-5 py-24 lg:px-24">
                 <div className="my-6 flex w-full flex-col text-left lg:text-center">
-                  <h3 className="mb-8 sm:text-5xl font-bold text-cyan-900">
+                  <h3 className="transition ease-in-out delay-150 hover:scale-110 mb-8 sm:text-5xl font-bold text-cyan-900">
                     Drum Akustik
                   </h3> 
                   <h3 className="mb-12 px-0 text-lg text-zinc-500 lg:px-52">
