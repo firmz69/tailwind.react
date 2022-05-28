@@ -6,24 +6,10 @@ export default function Main() {
         <div className="mt-4 inline-block pb-4 pl-8">
           <div className="hidden pl-14 align-middle xl:inline-block break-inside-avoid-column ml-auto">
       
-            <a className="pr-12 text-2xl text-stone-300 font-extrabold ml-auto text-right">
+            <a className="pr-12 text-3xl text-stone-300 font-extrabold ml-auto text-right">
             ♫ Syanaz Musik
             </a>
           </div>
-          <div className="pl-80 align-middle xl:inline-block mr-auto text-right">
-
-          <a href="/Home" className="pr-12 text-xl text-stone-200 text-right font-light mr-auto">
-              Home
-            </a>
-            <a href="/About" className="pr-12 text-xl text-stone-200 text-right font-light mr-auto">
-              About
-            </a>
-            <a href="/Product" className="pr-12 text-xl text-stone-200 font-light mr-auto">
-              Product
-            </a>
-            <a href="/Contact" className="pr-12 text-xl text-stone-200 font-light mr-auto">
-              Contact
-            </a>
           </div>
         </div>
         <div className="text-right flex items-center">
@@ -39,7 +25,6 @@ export default function Main() {
             </svg>
           </button>
         </div>
-      </div>
     </>
   );
 };
