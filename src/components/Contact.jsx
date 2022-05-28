@@ -21,7 +21,7 @@ export default function Main() {
                   </h2>
                   <a
                     href="/"
-                    className="underline mt-2 font-extralight leading-relaxed text-lg hover:text-cyan-700"
+                    className="transition ease-in-out delay-150 hover:scale-110 underline mt-2 font-extralight leading-relaxed text-lg hover:text-sky-900"
                   >
                     <p>Back to home...</p>
                 </a>
